@@ -1,4 +1,5 @@
 Student Marks Analysis Using Machine Learning
+
 Overview
 This project is a Machine Learning (ML) application designed to analyze student marks across various subjects. It includes a Flask web application that allows users to input data and predict student scores in other subjects. The primary goal is to demonstrate how AI tools, specifically GitHub Copilot in VSCode, can streamline the development process, enabling rapid project creation with minimal effort. With a basic understanding of ML, anyone can create similar projects quickly.
 
@@ -12,13 +13,16 @@ Effortless AI Integration: Developed rapidly with the help of GitHub Copilot, sh
 User-Friendly: Easy-to-follow code and a simple web interface make it accessible for users with basic ML knowledge.
 Installation
 1>Clone the Repository:
+
 2>Install Dependencies:
 Ensure you have Python and pip installed, then run:
 pip install -r requirements.txt
+
 3>Run the Flask Application:
 Start the Flask server by running:
 python app.py
 The web application will be available at http://127.0.0.1:5000/.
+
 4>Usage
 Access the Web Application:
 Open your web browser and navigate to http://127.0.0.1:5000/.
@@ -42,4 +46,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any questions or inquiries, please contact Your Name.
+For any questions or inquiries, please contact Ayush Srivastava(krayush.srivastav@gmail.com).
